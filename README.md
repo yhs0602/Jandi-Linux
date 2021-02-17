@@ -10,10 +10,11 @@ chmod +x Jandi
 ```
 
 # Run
+```
 ./Jandi
+```
 
-
-# How?
+# How to make it?
 
 1. Install https://github.com/nativefier/nativefier
 
